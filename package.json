@@ -17,5 +17,7 @@
     "url": "https://github.com/narumincho/sample-ts-code/issues"
   },
   "homepage": "https://github.com/narumincho/sample-ts-code#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
 }
